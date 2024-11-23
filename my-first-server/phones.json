@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "price": 1199,
+      "features": ["5G", "Quad Camera", "5000mAh Battery"],
+      "release_year": 2023
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "price": 1399,
+      "features": ["5G", "Triple Camera", "Dynamic Island"],
+      "release_year": 2023
+    },
+    {
+      "id": 3,
+      "brand": "Xiaomi",
+      "model": "Mi 13 Pro",
+      "price": 899,
+      "features": ["5G", "Triple Camera", "Leica Lens"],
+      "release_year": 2023
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "11R",
+      "price": 599,
+      "features": ["5G", "Triple Camera", "Fast Charging"],
+      "release_year": 2023
+    },
+    {
+      "id": 5,
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "price": 999,
+      "features": ["5G", "AI Camera", "Tensor Chip"],
+      "release_year": 2023
+    },
+    {
+      "id": 6,
+      "brand": "Realme",
+      "model": "GT Neo 5",
+      "price": 499,
+      "features": ["5G", "Dual Camera", "240W Charging"],
+      "release_year": 2023
+    },
+    {
+      "id": 7,
+      "brand": "Vivo",
+      "model": "X90 Pro",
+      "price": 799,
+      "features": ["5G", "Zeiss Optics", "V2 Chip"],
+      "release_year": 2023
+    },
+    {
+      "id": 8,
+      "brand": "Oppo",
+      "model": "Find X6 Pro",
+      "price": 1099,
+      "features": ["5G", "Hasselblad Camera", "SuperVOOC Charging"],
+      "release_year": 2023
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Edge 40 Pro",
+      "price": 799,
+      "features": ["5G", "Curved Display", "Waterproof"],
+      "release_year": 2023
+    },
+    {
+      "id": 10,
+      "brand": "Asus",
+      "model": "ROG Phone 7",
+      "price": 999,
+      "features": ["5G", "Gaming Features", "6000mAh Battery"],
+      "release_year": 2023
+    },
+    {
+      "id": 11,
+      "brand": "Sony",
+      "model": "Xperia 1 V",
+      "price": 1199,
+      "features": ["5G", "4K Display", "Cinematic Video"],
+      "release_year": 2023
+    },
+    {
+      "id": 12,
+      "brand": "Nokia",
+      "model": "XR21",
+      "price": 599,
+      "features": ["5G", "Rugged Build", "Long Battery Life"],
+      "release_year": 2023
+    }
+  ]
+  
